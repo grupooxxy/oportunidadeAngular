@@ -14,16 +14,12 @@ Crie um site SPA que administre um cadastro de veículos em uma base de dados.
 
 O site consiste basicamente em duas telas:
 
- * **Listar os veículos cadastrados**
-    - Deverá exibir um grid com três colunas (Placa, Renavam, Ações)
-    - Na coluna de "Ações" o usuário poderá Bloquear, Editar, Visualizar
-    - Na tela também deverá ter um botão para realizar um novo cadastro
+ * **Listar os veículos cadastrados** Deverá exibir um grid com três colunas (Placa, Renavam, Ações). Na coluna de "Ações" o usuário poderá Bloquear, Editar, Visualizar. Na tela também deverá ter um botão para realizar um novo cadastro
     
  * **Formulário para cadastro de veículos**
-   - Os campos para o cadastro são: Placa, Renavam, Nome Proprietário, CPF, Upload de Fotos (O usuário poderá subir um número ilimitado de fotos), Bloqueado (Boleano)
+    Os campos para o cadastro são: Placa, Renavam, Nome Proprietário, CPF, Upload de Fotos (O usuário poderá subir um número ilimitado de fotos), Bloqueado (Boleano)
     
- * **Detalhes da veículo**
-    - Os campos exibidos são: Placa, Renavam, Nome Proprietário, CPF, Fotos
+ * **Detalhes da veículo** Os campos exibidos são: Placa, Renavam, Nome Proprietário, CPF, Fotos
       
 As tecnologias que nós recomendamos a utilizar são:
 - ASP.NET Web API 2.0
