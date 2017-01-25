@@ -28,6 +28,6 @@ As tecnologias que nós recomendamos a utilizar são:
 - MongoDB
 
 Porém, você poderá realizar o exercício na linguagem de programação de sua preferência. 
-Lembrando que será avaliado a estrutura do código criado, padrões utilizados, testes unitários e qualidade. Não precisa se precoupar muito com o layout.
+Lembrando que será avaliado a estrutura do código criado, padrões utilizados, testes unitários e qualidade. Não precisa se precoupar muito com o layout. Qualquer dúvida sobre o execício envie um email para trabalheconoscoti@grupooxxy.com.br que responderemos para você!
 
 Boa sorte!
