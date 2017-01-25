@@ -5,30 +5,25 @@ Venha trabalhar na área de tecnologia do Grupo Oxxy. Nosso clima é de extrema 
 
 Se você tem interesse em fazer parte de uma equipe multidisciplinar, siga os seguintes passos:
  - Crie um repositório no github ou bitbucket para armazenar a resolução do exercício.
- - Commit seu código.
- - Envie um email para  com seu repositório para nós analisarmos a resolução do exercício.
+ - Envie um email para trabalheconoscoti@grupooxxy.com.br com seu repositório para nós analisarmos a resolução do exercício.
 
-Exercício de programação: Listagem de Veículos
+Exercício de programação: Cadastro de Veículos
 -------------------------------------------------------
 
-Você deverá criar um site SPA que deverá efetuar um cadastro de veículos em uma base de dados NoSQL.
+Crie um site SPA que administre um cadastro de veículos em uma base de dados.
 
-O site deverá ter:
+O site consiste basicamente em duas telas:
 
- - Uma tela para listar os veículos cadastrados na base
+ - Listar os veículos cadastrados
     - Deverá exibir um grid com três colunas (Placa, Renavam, Ações)
-    - Na coluna de "Ações" o usuário poderá Bloquear e Editar o veículo
-    - Na tela também deverá ter um botão para cadastrar um novo veículo
+    - Na coluna de "Ações" o usuário poderá Bloquear, Editar, Visualizar
+    - Na tela também deverá ter um botão para realizar um novo cadastro
     
- - Uma tela para cadastro / edição de veículos
-    - Deverá exibir um formulário para o cadastro do veículo.
-    - Os campos a serem exibidos são: 
-      - Placa (Alfanumérico)
-      - Renavam (Numérico)
-      - Nome Proprietário
-      - CPF (Numérico)
-      - Upload de Fotos (O usuário poderá subir um número ilimitado de fotos e as mesmas deverão ser exibidas nesta tela)
-      - Bloqueado (Boleano)
+ - Formulário para cadastro de veículos
+    - Os campos para o cadastro são: Placa, Renavam, Nome Proprietário, CPF, Upload de Fotos (O usuário poderá subir um número ilimitado de fotos), Bloqueado (Boleano)
+    
+ - Detalhes da veículo
+    - Os campos exibidos são: Placa, Renavam, Nome Proprietário, CPF, Fotos
       
 As tecnologias que nós recomendamos a utilizar são:
 - ASP.NET Web API 2.0
@@ -37,6 +32,6 @@ As tecnologias que nós recomendamos a utilizar são:
 - MongoDB
 
 Porém, você poderá realizar o exercício na linguagem de programação de sua preferência. 
-Lembrando que será avaliado a estrutura do código criado, padrões utilizados, testes e qualidade. Não precisa se precoupar muito com o layout.
+Lembrando que será avaliado a estrutura do código criado, padrões utilizados, testes unitários e qualidade. Não precisa se precoupar muito com o layout.
 
 Boa sorte!
