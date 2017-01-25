@@ -1,11 +1,12 @@
 Oportunidade de trabalho no Grupo Oxxy
 ===========================================
 
-Venha trabalhar na área de tecnologia da Grupo Oxxy. Nosso clima é de extrema colaboração. 
+Venha trabalhar na área de tecnologia do Grupo Oxxy. Nosso clima é de extrema colaboração. 
 
 Se você tem interesse em fazer parte de uma equipe multidisciplinar, siga os seguintes passos:
-
-Faça um fork desse projeto e faça um pull request com a resolução do execício:
+ - Crie um repositório no github ou bitbucket para armazenar a resolução do exercício.
+ - Commit seu código.
+ - Envie um email para  com seu repositório para nós analisarmos a resolução do exercício.
 
 Exercício de programação: Listagem de Veículos
 -------------------------------------------------------
@@ -22,17 +23,17 @@ O site deverá ter:
  - Uma tela para cadastro / edição de veículos
     - Deverá exibir um formulário para o cadastro do veículo.
     - Os campos a serem exibidos são: 
-      - Placa (Alfanumerico)
-      - Renavam (Numeros)
+      - Placa (Alfanumérico)
+      - Renavam (Numérico)
       - Nome Proprietário
-      - CPF (Numeros)
-      - Upload de Fotos (O usuario poderá subir um número ilimitado de fotos e as mesmas deverão ser exibidas nesta tela)
+      - CPF (Numérico)
+      - Upload de Fotos (O usuário poderá subir um número ilimitado de fotos e as mesmas deverão ser exibidas nesta tela)
       - Bloqueado (Boleano)
       
-As tecnologias que nós recomnedamos a utilizar são:
-- ASP.NET MVC 
+As tecnologias que nós recomendamos a utilizar são:
+- ASP.NET Web API 2.0
 - C#
-- Angular JS (pode utlizar v1 ou v2)
+- AngularJS (pode utlizar v1 ou v2)
 - MongoDB
 
 Porém, você poderá realizar o exercício na linguagem de programação de sua preferência. 
