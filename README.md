@@ -28,7 +28,7 @@ O site consiste basicamente em três telas (o layout da tela fica livre para voc
    (O usuário poderá subir um número ilimitado de fotos)
    ![Screenshots](cadastrar.png)
     
- * **Detalhes da veículo** 
+ * **Detalhes do veículo** 
    ![Screenshots](visualizar.png)
       
 As tecnologias que nós recomendamos a utilizar são:
