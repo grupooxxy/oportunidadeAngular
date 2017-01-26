@@ -3,6 +3,13 @@ Oportunidade de trabalho no Grupo Oxxy
 
 Venha trabalhar na área de tecnologia do Grupo Oxxy. Nosso clima é de extrema colaboração. 
 
+Descrição da Vaga
+-------------------------------------------------------
+Desenvolvimento e manutenção de webservices para integração com a aplicações Windows Forms, Windows Services e Web.
+Conhecimento nas seguintes linguagens, C#, ASP.net MVC, WCF, WebApi, AngularJS 1 ou 2, Javascript, Jquery, ASP.net, HTML, CSS, SQL Server, conhecimentos de Framework a partir da versão 3.5.  
+
+Diferencial: Reactivex(RX.NET), MongoDB, TDD e Scrum.
+
 Se você tem interesse em fazer parte de uma equipe multidisciplinar, siga os seguintes passos:
  - Crie um repositório no github ou bitbucket para armazenar a resolução do exercício.
  - Envie um email para trabalheconoscoti@grupooxxy.com.br com seu repositório para nós analisarmos a resolução do exercício.
@@ -12,7 +19,7 @@ Exercício de programação: Cadastro de Veículos
 
 Crie um site SPA que administre um cadastro de veículos em uma base de dados.
 
-O site consiste basicamente em duas telas:
+O site consiste basicamente em três telas (o layout da tela fica livre para você criar):
 
  * **Listar os veículos cadastrados** Deverá exibir um grid com três colunas (Placa, Renavam, Ações). Na coluna de "Ações" o usuário poderá Bloquear, Editar, Visualizar. Na tela também deverá ter um botão para realizar um novo cadastro
     
