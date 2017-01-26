@@ -5,8 +5,8 @@ Venha trabalhar na área de tecnologia do Grupo Oxxy. Nosso clima é de extrema 
 
 Descrição da Vaga
 -------------------------------------------------------
-Desenvolvimento e manutenção de webservices para integração com a aplicações Windows Forms, Windows Services e Web.
-Conhecimento nas seguintes linguagens, C#, ASP.net MVC, WCF, WebApi, AngularJS 1 ou 2, Javascript, Jquery, ASP.net, HTML, CSS, SQL Server, conhecimentos de Framework a partir da versão 3.5.  
+Desenvolvimento e manutenção de sistemas web em angular, webapi, legados em webforms e WCF.
+Conhecimento nas seguintes linguagens e frameworks: C#, ASP.net MVC, WCF, WebApi, AngularJS 1 ou 2, HTML, CSS, SQL Server.  
 
 Diferencial: Reactivex(RX.NET), MongoDB, TDD e Scrum.
 
