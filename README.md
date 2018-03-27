@@ -3,12 +3,34 @@ Oportunidade de trabalho no Grupo Oxxy
 
 Venha trabalhar na área de tecnologia do Grupo Oxxy. Nosso clima é de extrema colaboração. 
 
+Cargo
+-------------------------------------------------------
+Full Stack .NET Developer
+
 Descrição da Vaga
 -------------------------------------------------------
-Desenvolvimento e manutenção de sistemas web em angular, webapi, legados em webforms e WCF.
-Conhecimento nas seguintes linguagens e frameworks: C#, ASP.net MVC, WCF, WebApi, AngularJS 1 ou 2, HTML, CSS, SQL Server.  
+Requisitos técnicos:
+Back-End:
+- Microsoft .Net C#
+- Asp.Net Core 2.0 (Web Api - RESTful services)
+- Entity Framework Core, Dapper e LINQ
+- IDE Visual Studio 2015 ou Superior
+- Conhecimento em SOLID, Clean Code, Desing Patterns, DDD, TDD e DI são diferenciais
 
-Diferencial: Reactivex(RX.NET), MongoDB, TDD e Scrum.
+Front-End:
+- HTML5/CSS e Bootstrap 3.x+
+- Javascript (ES6 ou superior), TypeScript e Angular(2+ e superior)
+- Angular-CLI, pacotes NPM e WebPack
+- IDE Visual Studio Code
+- Conhecimento em PWA (Ionic, Service Works) e UX são diferenciais
+
+Banco de Dados:
+- SQL Server
+- IDE SQL Server Management Studio
+- Conhecimento NoSQL e Google Firebase são diferenciais
+
+Controle de Versão:
+- Git
 
 Se você tem interesse em fazer parte de uma equipe multidisciplinar, siga os seguintes passos:
  - Crie um repositório no github ou bitbucket para armazenar a resolução do exercício.
